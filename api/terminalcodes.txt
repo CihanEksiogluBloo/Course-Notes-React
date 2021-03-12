@@ -1,0 +1,3 @@
+json-server --watch api/db.json --port 3004
+
+npm install axioscd

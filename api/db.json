@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Cihan",
+      "salary": "10000",
+      "department": "Bilişim",
+      "id": "unique-1"
+    },
+    {
+      "name": "Aytuğ",
+      "salary": "11000",
+      "department": "Bilişim",
+      "id": "unique-2"
+    },
+    {
+      "name": "Aykut",
+      "department": "Bilişim",
+      "salary": "10000",
+      "id": "aC8ZhhN"
+    }
+  ]
+}
